@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ihkali
-- 👀 I’m student
-- 🌱 I’m currently learning GANs
-- 💞️ I’m in love
+- 👀 student
+- 🌱 I’m currently learning Reinforcement learning
 - 📫 reach me through insta @ihkali1
 
 <!---
