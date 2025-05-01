@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ihkali
-- 👀 student
-- 🌱 I’m currently learning Reinforcement learning
+- 👀 Reinforcement Learning(World Model)
+- Let's build AGI
 
 <!---
 Ihkali/Ihkali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
